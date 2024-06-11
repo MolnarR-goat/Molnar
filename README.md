@@ -1,5 +1,5 @@
 # Salve! 
-sou conhecido Molnar
+**sou conhecido Molnar**
 
-Estou me desenvolvendo na linguagem JavaScript.
-Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos.
+**°**Estou me desenvolvendo na linguagem JavaScript.
+**°**Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos.
